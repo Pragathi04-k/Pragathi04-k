@@ -1,4 +1,4 @@
-#✨ About Me ✨ 
+# About Me ✨ 
 
 As a curious individual, the world of engineering has always fascinated me. It's about using creativity and innovation to solve real-world problems. Currently, I am pursuing my Bachelor of Engineering in Computer Science Engineering at SDM Institute of Technology, Ujire, Karnataka. I'm always looking for new challenges and opportunities to learn.
 <br>🌱 I’m currently learning Full Stack development<br>💃🎶I'm deeply passionate about classical dance and song<br>📫 How to reach me :  kodmadpragathi@gmail.com<br>📚 Hobbies: Listening to music, Classical dance, Reading Novels<br>🌍 Languages: English , Kannada , Hindi , Malayalam<br>
