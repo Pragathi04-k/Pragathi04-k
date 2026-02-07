@@ -1,8 +1,8 @@
 # About Me ✨ 
 
-As a curious individual, the world of engineering has always fascinated me. It's about using creativity and innovation to solve real-world problems. Currently, I am pursuing my Bachelor of Engineering in Computer Science Engineering at SDM Institute of Technology, Ujire, Karnataka. I'm always looking for new challenges and opportunities to learn.
+Passionate Full Stack Developer skilled in MERN stack (MongoDB, Express.js, React.js, Node.js), HTML, CSS, and JavaScript. Experienced in building scalable, responsive web applications, developing RESTful APIs, and managing databases. Seeking to apply expertise in delivering innovative solutions while enhancing knowledge and contributing to impactful projects.
 
-🌱 I’m currently learning Full Stack development  
+🌱 Developing scalable web applications using MERN Stack and modern web technologies.  
 💃🎶 I'm deeply passionate about classical dance and song  
 📫 How to reach me: kodmadpragathi@gmail.com  
 📚 Hobbies: Listening to music, Classical dance, Reading Novels  
